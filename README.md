@@ -14,42 +14,34 @@
 
 ### **Offensive Security**
 
-* 
-**Operations:** Red Team Operations, Web Pentesting, Bug Bounty 
+* **Operations:** Red Team Operations, Web Pentesting, Bug Bounty 
 
 
-* 
-**Techniques:** CTF Exploitation, Nuclei Automation 
+* **Techniques:** CTF Exploitation, Nuclei Automation 
 
 
 
 ### **Engineering**
 
-* 
-**Languages:** Java (Advanced/gRPC/JPA), C++20, C#, Python, Assembly, PHP 
+* **Languages:** Java (Advanced/gRPC/JPA), C++20, C#, Python, Assembly, PHP 
 
 
-* 
-**Database:** SQL, T-SQL, PLSQL 
+* **Database:** SQL, T-SQL, PLSQL 
 
 
-* 
-**Scripting:** Bash, JavaScript 
+* **Scripting:** Bash, JavaScript 
 
 
 
 ### **Infrastructure**
 
-* 
-**Architecture:** Azure Architect, Zero Trust, CI/CD 
+* **Architecture:** Azure Architect, Zero Trust, CI/CD 
 
 
-* 
-**Systems:** Linux Kernel Admin, TCP/UDP Interop 
+* **Systems:** Linux Kernel Admin, TCP/UDP Interop 
 
 
-* 
-**Networking:** Distance Vector (DV) Routing 
+* **Networking:** Distance Vector (DV) Routing 
 
 
 
@@ -75,12 +67,10 @@ Architected a Java-based intermediary proxy network for data aggregation across 
 
 Designed Java microservices for geometric data using **Google gRPC** and **H2** relational databases.
 
-* 
-**Data Engineering:** Developed bitwise encoding to pack coordinates/color into 32-bit integers.
+* **Data Engineering:** Developed bitwise encoding to pack coordinates/color into 32-bit integers.
 
 
-* 
-**Persistence:** Built a custom DAO layer for binary stream parsing and transactional batch inserts.
+* **Persistence:** Built a custom DAO layer for binary stream parsing and transactional batch inserts.
 
 
 
@@ -118,39 +108,31 @@ Architected a secure e-commerce engine focused on server-side hardening.
 
 ### **Azure Cloud & Identity Management**
 
-* 
-**SC-100:** Cybersecurity Architect Expert 
+* **SC-100:** Cybersecurity Architect Expert 
 
 
-* 
-**SC-300:** Identity & Access Administrator 
+* **SC-300:** Identity & Access Administrator 
 
 
-* 
-**Zero Trust** and Best Practice Frameworks 
+* **Zero Trust** and Best Practice Frameworks 
 
 
-* 
-**Resiliency Strategy:** Ransomware Defense 
+* **Resiliency Strategy:** Ransomware Defense 
 
 
 
 ### **Defense & Networking**
 
-* 
-**Google Cybersecurity Professional** (8-Course) 
+* **Google Cybersecurity Professional** (8-Course) 
 
 
-* 
-**CompTIA Network+** (N10-008) 
+* **CompTIA Network+** (N10-008) 
 
 
-* 
-**CCST Networking** & Cisco LABS 
+* **CCST Networking** & Cisco LABS 
 
 
-* 
-**Wireshark** for Network Forensics 
+* **Wireshark** for Network Forensics 
 
 
 
@@ -160,20 +142,16 @@ Architected a secure e-commerce engine focused on server-side hardening.
 
 **B.S. in Computer Science** 
 
-* 
-**Institution:** Polsko-Japońska Akademia Technik Komputerowych 
+* **Institution:** Polsko-Japońska Akademia Technik Komputerowych 
 
 
-* 
-**Specialization:** Cybersecurity & Systems Programming 
+* **Specialization:** Cybersecurity & Systems Programming 
 
 
-* 
-**Timeline:** 2023 – 2027 
+* **Timeline:** 2023 – 2027 
 
 
-* 
-**Location:** Warsaw, Poland 
+* **Location:** Warsaw, Poland 
 
 
 
@@ -181,16 +159,13 @@ Architected a secure e-commerce engine focused on server-side hardening.
 
 ## 🌍 Localization
 
-* 
-**English:** C1 
+* **English:** C1 
 
 
-* 
-**Russian:** Native 
+* **Russian:** Native 
 
 
-* 
-**Ukrainian:** Native 
+* **Ukrainian:** Native 
 
 
 <!--
