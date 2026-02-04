@@ -4,7 +4,7 @@
 
 **Cybersecurity Architect & Full-Stack Systems Engineer** 
 
-> Verification Protocol: **ACTIVE** | Registry: **65+ Validated Credentials** | System: **v6.1** 
+> Verification Protocol: **ACTIVE** | System: **v6.1** 
 > 
 > 
 
@@ -148,7 +148,7 @@ Architected a secure e-commerce engine focused on server-side hardening.
 * **Specialization:** Cybersecurity & Systems Programming 
 
 
-* **Timeline:** 2023 – 2027 
+* **Timeline:** 2024 – 2027 
 
 
 * **Location:** Warsaw, Poland 
