@@ -1,64 +1,169 @@
-# Anastasiia Kravchenko
-**Cybersecurity & DevSecOps Engineer | Full-Stack Systems Engineer | Crypto & Investing Analyst**
+# ANASTASIIA KRAVCHENKO
 
-## Professional Summary
-I am a Cybersecurity & DevSecOps Engineer and Full-Stack Systems Developer with a passion for architecting secure, scalable systems at the intersection of technology and finance. With a deep technical foundation from the Polish-Japanese Academy of Information Technology (PJATK), I bridge the gap between robust software engineering and elite-level information security. 
+```
+> root@kravchenko:~/ cat profile.md
+```
 
-My expertise is backed by an extensive portfolio of over 100 industry-recognized certifications and hands-on experience building distributed systems and securing critical infrastructure. From low-level memory management in C/Assembly to architecting distributed microservices with Java Spring Boot and Google gRPC, I integrate a "security-first" mindset into every stage of the Software Development Life Cycle (SDLC). 
-
-## Core Technical Competencies
-* **Security & DevSecOps:** Ethical Hacking, Penetration Testing (Nmap, Metasploit, Wireshark), Vulnerability Assessment, Zero Trust, ISO 27001, GRC (CISA/CRISC context).
-* **Cloud Architecture:** AWS (Solutions Architect), Microsoft Azure (Administrator), Docker, CI/CD Deployment Pipelines.
-* **Backend & Full-Stack:** Java (Spring Boot, Spring MVC, Spring Security, Hibernate, JPQL), C#/.NET, Python, JavaScript.
-* **Low-Level & Systems:** C/C++, Assembly, Linux Administration (PAM), Bash/PowerShell Scripting, TCP/UDP Protocols.
-* **Databases:** SQL, PL/SQL, T-SQL, H2, MySQL, Liquibase, Flyway.
-* **Languages:** English (Full Professional), Ukrainian (Native), Russian (Native), Polish (Elementary).
+**`Cybersecurity Engineer`** · **`AI Agents Architect`** · **`Full-Stack Developer`**  
+📍 Warsaw, Poland · 🎓 PJATK B.Sc. Computer Science 2024–2028 · 🔐 100+ Industry Credentials
 
 ---
 
-## Highlighted Engineering Projects
+## ⚡ About Me
 
-### 🌐 Distributed Systems & Networking (Academic & Professional)
-* **`[NET-01]` High-Performance Proxy Network:** Architected a Java-based proxy network for data aggregation across cyclic mesh topologies. Engineered custom Distance Vector (DV) routing logic, handled complex race conditions, and built TCP/UDP protocol bridges.
-* **`[DIST-01]` Microservices Architecture:** Designed distributed microservices using Google gRPC and H2 relational databases. Implemented advanced bitwise encoding to pack coordinates and color data into single 32-bit integers for optimized network transmission.
+I've been building things with code since I was **11** — starting from HTML/CSS/JS websites, moving into cybersecurity, exploring blockchain, and now designing autonomous AI systems. My focus is on building **secure, scalable systems** at the intersection of **technology and finance**.
 
-### Cybersecurity & Software Engineering (Personal Portfolio)
-* **Java Password Manager:** Designed and implemented a secure credential management system. Utilized Java's built-in cryptography and security features to ensure robust password generation, encrypted storage, and data confidentiality. ([View on GitHub](https://github.com/Anastasia-D-Kravchenko/Java_pasword_manager))
-* **Cerfling (AI/Python):** Architected an automated Python-based system that leverages Artificial Intelligence to generate highly relevant descriptions and skills for certificates, seamlessly integrating them into LinkedIn profiles. ([View on GitHub](https://github.com/Anastasia-D-Kravchenko/cerfling))
-* **UniversityRental (C#):** Developed a comprehensive and scalable rental management application utilizing C# and the .NET ecosystem. ([View on GitHub](https://github.com/Anastasia-D-Kravchenko/UniversityRental))
+Currently studying **Cybersecurity & Systems Programming** at PJATK Warsaw while competing in global technical challenges, building AI agent pipelines, and going deep on offensive security.
 
 ---
 
-## Education & Academic Knowledge Base
+## 🤖 AI & Agents
 
-**Bachelor's Degree in Computer Science** *Polsko-Japońska Akademia Technik Komputerowych (PJATK) w Warszawie | Oct 2024 - June 2028*
+```python
+stack = {
+    "frameworks":     ["CrewAI", "LangGraph", "AutoGen", "LangChain"],
+    "protocol":       ["MCP (Model Context Protocol)"],
+    "cloud":          ["Azure AI Foundry", "Google Cloud (Gold League)", "Pulumi IaC"],
+    "ml_built":       ["Perceptron", "Neural Networks", "kNN", "Naive Bayes",
+                       "Decision Trees", "k-means", "Simulated Annealing"],
+    "certifications": ["Anthropic AI (Claude 101, Agents, Subagents)",
+                       "46x Microsoft Azure AI courses",
+                       "Google Cloud Gold League — 7,842 pts"]
+}
+```
 
-**Advanced Coursework & Applied Technologies:**
-* **Distributed Programming Technologies (TPO):** Mastered scalable server architecture and network APIs. Heavily utilized **Java Spring** (MVC, Data, Security), **Hibernate/JPA** (Entity Manager, JPQL, Cascading, Lazy/Eager fetching), and containerization (**Docker**).
-* **Universal Programming Techniques (UTP):** Deep dive into modern Java, including generic types, functional programming, Stream APIs, multithreading, concurrency, and reflection.
-* **Information Systems Design (PRI):** Conceptual modeling and architecture design using UML (Use Case, Activity, Class, and Statechart diagrams).
+- 🏆 **Reply Mirror AI Agent Challenge** — autonomous multi-agent fraud detection system (April 2026)
+- 🤖 **Google ADK AI Agent Workshop** — LLM-powered autonomous agent with perception → reasoning → action loop
+- ☁️ **Azure AI Foundry** — fine-tuned LLMs, RAG apps, vector search, MCP tool integration
+- 🧠 **Google Cloud Gold League** — 7,842 pts · Generative AI · Gemini · NotebookLM · European University Challenge badge
+
+---
+
+## 🔐 Cybersecurity
+
+```bash
+$ whoami --skills
+[+] Web Pentesting · CTF Exploitation · Bug Bounty · Android RE
+[+] Windows API Exploitation · Steganography (C++20) · WebGoat / OWASP Top 10
+[+] Nmap · Metasploit · Wireshark · Nuclei · Belkasoft Evidence Center
+[+] VulnHub Lab Practice · Forensics · Zero Trust · Identity (SC-100, SC-300)
+```
+
+- 🎯 **SANS CTF European Championship** — accepted, May 25–29 2026
+- 🏅 **Google Cybersecurity Professional Certificate** — 8 courses (Coursera)
+- 🔍 **Windows Forensics with Belkasoft** — 6 CPE credits
+- 📚 **The Complete Cyber Security Course** — Vols 1–4 · 54.5 hours total
+- 🛡️ **Microsoft SC-100 + SC-300** — security architecture, Zero Trust, Microsoft Entra ID
 
 ---
 
-## 🏆 Selected Certifications & Continuous Learning
-*With over 100 certifications, I am committed to continuous technological mastery. Key highlights include:*
+## 💻 Development
 
-**Cloud Computing & Architecture**
-* **AWS Certified Solutions Architect Associate (SAA-C03)** - *Cloud Architecture, Scalability, Security*
-* **AWS Certified Cloud Practitioner** - *AWS Services & Infrastructure*
-* **AZ-104: Microsoft Azure Administrator** - *Azure Infrastructure Management & Cloud Security*
-* **AZ-900: Microsoft Azure Fundamentals**
+```java
+// Backend
+Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate
+JPQL · Liquibase · Spring Security · gRPC · REST API · Docker
 
-**Cybersecurity & DevSecOps**
-* **Google Cybersecurity Certificate** - *Threat Analysis, Incident Response, Network Security*
-* **CompTIA CySA+ (CS0-003) Complete Course** - *Continuous Security Monitoring & Analytics*
-* **AI for Cybersecurity & Bug Bounty Hunting** - *Threat Detection & Vulnerability Assessment*
-* **Ethical Hacking & Zero-Day Development** - *CTF Walkthroughs, Exploit Discovery*
-* **Encryption Academy** - *Advanced Cryptography & Data Protection*
+// .NET
+C# · ASP.NET Core · Entity Framework Core · Blazor · JWT · OAuth 2.0
 
-**IT Management & Infrastructure**
-* **ITIL 4 Foundation** - *IT Service Management & Operations*
-* **Microsoft Windows Server 2016 & Linux PAM Administration** - *Systems Hardening & Access Control*
+// Databases
+Oracle · MS SQL Server · MySQL · PostgreSQL · PL/SQL · T-SQL · H2/JDBC
+
+// Other
+Python · C/C++ · JavaScript · Bash · R · Assembly · Dart/Flutter
+```
+
+- ⚙️ **Distance Vector Routing Proxy** — complex race conditions, cyclic topologies (Java)
+- 🔌 **gRPC Microservices** — custom 32-bit bitwise encoding, binary stream parsing
+- 🌐 **dveri-optom.com** — B2B wholesale platform · PHP · MySQL · custom admin panel · full freelance delivery (2025)
+- 🤖 **cerfling** — AI tool that auto-generates LinkedIn certificate descriptions using LLM APIs
 
 ---
-*I am driven by complex challenges and the mission of building a more secure digital world. Let’s connect and innovate together!*
+
+## 🏆 Competitions
+
+| Challenge | Year | Details |
+|-----------|------|---------|
+| 🏦 IMC Prosperity 4 — Algorithmic Trading | 2026 | 22,600+ participants · $50,000 prize pool · Python trading bots |
+| 🔐 SANS CTF European Championship | 2026 | Accepted · May 25–29 · forensics · RE · web · crypto |
+| 🤖 Reply Mirror — AI Fraud Detection | 2026 | Multi-agent autonomous system |
+| 🧠 Google DeepMind × AI Tinkerers Hackathon Warsaw | 2026 | Competitive AI build |
+| ⚡ AMD Developer AI Hackathon (lablab.ai) | 2026 | LLM inference · ROCm ecosystem |
+| 🌱 Build with AI @ Google Campus | 2025–2026 | All editions · GDG Warsaw |
+| 📈 NinjaTrader Arena | 2026 | Futures trading · order flow analysis |
+| 🔭 Physics in Advent — **24/24 Perfect Score** | 2023 | Georg-August-Universität Göttingen |
+
+---
+
+## 📜 Key Credentials
+
+<details>
+<summary><b>Security & Forensics</b></summary>
+
+- ✅ Google Cybersecurity Professional Certificate (Coursera, 2024)
+- ✅ Windows Forensics with Belkasoft — 6 CPE (2025)
+- ✅ The Complete Cyber Security Course Vols 1–4 — 54.5h (2024–2025)
+- ✅ SC-100 Security Architecture & Zero Trust (Microsoft Learn, 2024)
+- ✅ SC-300 Identity & Access Management (Microsoft Learn, 2024)
+- ✅ Nmap Ethical Hacking · Bug Bounty · CTF Exploitation · Mastering Nuclei
+
+</details>
+
+<details>
+<summary><b>Cloud & AI</b></summary>
+
+- ✅ AZ-104 Microsoft Azure Administrator
+- ✅ AWS Solutions Architect
+- ✅ Google Cloud Skills — Gold League (7,842 pts)
+- ✅ Microsoft Academy — 46 courses, Warsaw IT Days 2026
+- ✅ Anthropic AI Skills: Claude 101 · Agent Skills · Subagents
+- ✅ Google Ads Apps Certification (active until March 2027)
+
+</details>
+
+<details>
+<summary><b>Development</b></summary>
+
+- ✅ C# Intermediate — OOP, LINQ, delegates, generics (Codewithmosh, 2026)
+- ✅ Spring Boot for Beginners (Amigoscode, 2026)
+- ✅ Full Stack Java & Front End Dev (Simplilearn)
+- ✅ Linux RH104 (Red Hat / PJATK, 2024)
+- ✅ CompTIA Network+ & A+
+
+</details>
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Science** — Polish-Japanese Academy of Information Technology (PJATK), Warsaw
+📅 2024–2028 · Specialisation: **Cybersecurity & Systems Programming**
+
+| Semester | Courses |
+|----------|---------|
+| 1 | Java Programming · Calculus · Computer Architecture · Information Systems |
+| 2 | OOP/GUI · Discrete Math · Relational Databases · Operating Systems · Linear Algebra |
+| 3 | Algorithms & DS · Computer Networks · DB Systems · Statistical Analysis · UTP |
+| 4 | AI Tools · Database Applications · Python · Spring Boot (TPO) · UML Design · Simulations · Embedded Systems |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-D-Kravchenko&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=e6edf3)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-D-Kravchenko&layout=compact&theme=github_dark&hide_border=true&title_color=00ff41&text_color=e6edf3)
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiia-kravchenko-1bb02b217)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anastasia-D-Kravchenko)
+
+---
+
+```
+// Verification Protocol: ACTIVE | Registry: 100+ Validated Credentials | Last Rev: April 2026
+```
