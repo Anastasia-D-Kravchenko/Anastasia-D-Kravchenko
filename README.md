@@ -1,169 +1,43 @@
-# ANASTASIIA KRAVCHENKO
+# Anastasiia Kravchenko
 
-```
-> root@kravchenko:~/ cat profile.md
-```
+**Software Engineer: AI integration · Backend · Cloud & DevOps · Application security**
 
-**`Cybersecurity Engineer`** · **`AI Agents Architect`** · **`Full-Stack Developer`**  
-📍 Warsaw, Poland · 🎓 PJATK B.Sc. Computer Science 2024–2028 · 🔐 100+ Industry Credentials
+📍 Warsaw, Poland · 🎓 B.Sc. Computer Science, PJATK (2024–2028) · 🔗 [LinkedIn](https://www.linkedin.com/in/anastasiia-kravchenko-1bb02b217/)
 
 ---
 
-## ⚡ About Me
+## About
 
-I've been building things with code since I was **11** — starting from HTML/CSS/JS websites, moving into cybersecurity, exploring blockchain, and now designing autonomous AI systems. My focus is on building **secure, scalable systems** at the intersection of **technology and finance**.
+I've been building things with code since I was 11, from HTML/CSS/JS sites to security labs, and now to integrating AI into real business systems. Alongside my studies I build, run and secure a production B2B wholesale platform (PHP/MySQL): an LLM chatbot with tool-calling, ERP / payment / delivery / marketplace integrations, and security hardening.
 
-Currently studying **Cybersecurity & Systems Programming** at PJATK Warsaw while competing in global technical challenges, building AI agent pipelines, and going deep on offensive security.
+I'm looking for internships and junior roles in **backend, AI integration, DevOps or security** (Poland, on-site, hybrid or remote).
 
----
+## Featured projects
 
-## 🤖 AI & Agents
+| Project | What it shows |
+|---|---|
+| [**lpfap**](https://github.com/Anastasia-D-Kravchenko/lpfap) | Spring Boot 3 REST API with JWT, Flyway migrations, Swagger, Docker and a multi-page front end |
+| [**orders-api-dotnet-sqlserver**](https://github.com/Anastasia-D-Kravchenko/orders-api-dotnet-sqlserver) | ASP.NET Core + EF Core (migrations) + SQL Server 2022 in Docker Compose, tested end to end |
+| [**spring-boot-labs**](https://github.com/Anastasia-D-Kravchenko/spring-boot-labs) | Six Spring Boot labs: Thymeleaf MVC, REST, JPA/H2, validation, i18n |
+| [**Spring_boot (EventFlow)**](https://github.com/Anastasia-D-Kravchenko/Spring_boot) | Event platform with role-based access and an AI assistant using the Anthropic Claude API |
+| [**Multi-Agent-Fraud-Detection-System-v2**](https://github.com/Anastasia-D-Kravchenko/Multi-Agent-Fraud-Detection-System-v2) | Five cooperating Python agents + orchestrator (Reply Mirror AI Agent Challenge 2026) |
+| [**RevenueRecognitionSystem**](https://github.com/Anastasia-D-Kravchenko/RevenueRecognitionSystem) | ASP.NET Core API with JWT roles, EF Core, xUnit tests |
+| [**JARVIS-APP**](https://github.com/Anastasia-D-Kravchenko/JARVIS-APP) | Android voice assistant with Groq LLM integration |
+| [**gRPC_java**](https://github.com/Anastasia-D-Kravchenko/gRPC_java) · [**proxy**](https://github.com/Anastasia-D-Kravchenko/proxy) | gRPC + H2 service; TCP/UDP proxy network with distance-vector routing |
+| [**Steganography**](https://github.com/Anastasia-D-Kravchenko/Steganography) · [**Windows-API**](https://github.com/Anastasia-D-Kravchenko/Windows-API) · [**portswigger**](https://github.com/Anastasia-D-Kravchenko/portswigger) | Security learning: C++20 LSB tool, Windows API with Python ctypes, web-security lab notes |
 
-```python
-stack = {
-    "frameworks":     ["CrewAI", "LangGraph", "AutoGen", "LangChain"],
-    "protocol":       ["MCP (Model Context Protocol)"],
-    "cloud":          ["Azure AI Foundry", "Google Cloud (Gold League)", "Pulumi IaC"],
-    "ml_built":       ["Perceptron", "Neural Networks", "kNN", "Naive Bayes",
-                       "Decision Trees", "k-means", "Simulated Annealing"],
-    "certifications": ["Anthropic AI (Claude 101, Agents, Subagents)",
-                       "46x Microsoft Azure AI courses",
-                       "Google Cloud Gold League — 7,842 pts"]
-}
-```
+## Tech
 
-- 🏆 **Reply Mirror AI Agent Challenge** — autonomous multi-agent fraud detection system (April 2026)
-- 🤖 **Google ADK AI Agent Workshop** — LLM-powered autonomous agent with perception → reasoning → action loop
-- ☁️ **Azure AI Foundry** — fine-tuned LLMs, RAG apps, vector search, MCP tool integration
-- 🧠 **Google Cloud Gold League** — 7,842 pts · Generative AI · Gemini · NotebookLM · European University Challenge badge
+* **Languages:** Java, C#, Python, PHP, SQL (T-SQL, PL/SQL), JavaScript, C/C++, Bash
+* **Backend:** Spring Boot (MVC, Data JPA, Security, JWT, gRPC), ASP.NET Core, Entity Framework Core, REST
+* **AI integration:** LLM APIs (Groq, Anthropic Claude), tool-calling chatbots, multi-agent systems, Google ADK, Azure AI Foundry (coursework)
+* **Data:** MySQL, SQL Server, Oracle, PostgreSQL, H2
+* **Cloud & DevOps:** Docker / Docker Compose, Linux, Azure and AWS (coursework)
+* **Security:** OWASP Top 10, Burp Suite, Nmap, Wireshark, digital forensics (Belkasoft), CTF and web-security labs
 
----
+## Highlights
 
-## 🔐 Cybersecurity
-
-```bash
-$ whoami --skills
-[+] Web Pentesting · CTF Exploitation · Bug Bounty · Android RE
-[+] Windows API Exploitation · Steganography (C++20) · WebGoat / OWASP Top 10
-[+] Nmap · Metasploit · Wireshark · Nuclei · Belkasoft Evidence Center
-[+] VulnHub Lab Practice · Forensics · Zero Trust · Identity (SC-100, SC-300)
-```
-
-- 🎯 **SANS CTF European Championship** — accepted, May 25–29 2026
-- 🏅 **Google Cybersecurity Professional Certificate** — 8 courses (Coursera)
-- 🔍 **Windows Forensics with Belkasoft** — 6 CPE credits
-- 📚 **The Complete Cyber Security Course** — Vols 1–4 · 54.5 hours total
-- 🛡️ **Microsoft SC-100 + SC-300** — security architecture, Zero Trust, Microsoft Entra ID
-
----
-
-## 💻 Development
-
-```java
-// Backend
-Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate
-JPQL · Liquibase · Spring Security · gRPC · REST API · Docker
-
-// .NET
-C# · ASP.NET Core · Entity Framework Core · Blazor · JWT · OAuth 2.0
-
-// Databases
-Oracle · MS SQL Server · MySQL · PostgreSQL · PL/SQL · T-SQL · H2/JDBC
-
-// Other
-Python · C/C++ · JavaScript · Bash · R · Assembly · Dart/Flutter
-```
-
-- ⚙️ **Distance Vector Routing Proxy** — complex race conditions, cyclic topologies (Java)
-- 🔌 **gRPC Microservices** — custom 32-bit bitwise encoding, binary stream parsing
-- 🌐 **dveri-optom.com** — B2B wholesale platform · PHP · MySQL · custom admin panel · full freelance delivery (2025)
-- 🤖 **cerfling** — AI tool that auto-generates LinkedIn certificate descriptions using LLM APIs
-
----
-
-## 🏆 Competitions
-
-| Challenge | Year | Details |
-|-----------|------|---------|
-| 🏦 IMC Prosperity 4 — Algorithmic Trading | 2026 | 22,600+ participants · $50,000 prize pool · Python trading bots |
-| 🔐 SANS CTF European Championship | 2026 | Accepted · May 25–29 · forensics · RE · web · crypto |
-| 🤖 Reply Mirror — AI Fraud Detection | 2026 | Multi-agent autonomous system |
-| 🧠 Google DeepMind × AI Tinkerers Hackathon Warsaw | 2026 | Competitive AI build |
-| ⚡ AMD Developer AI Hackathon (lablab.ai) | 2026 | LLM inference · ROCm ecosystem |
-| 🌱 Build with AI @ Google Campus | 2025–2026 | All editions · GDG Warsaw |
-| 📈 NinjaTrader Arena | 2026 | Futures trading · order flow analysis |
-| 🔭 Physics in Advent — **24/24 Perfect Score** | 2023 | Georg-August-Universität Göttingen |
-
----
-
-## 📜 Key Credentials
-
-<details>
-<summary><b>Security & Forensics</b></summary>
-
-- ✅ Google Cybersecurity Professional Certificate (Coursera, 2024)
-- ✅ Windows Forensics with Belkasoft — 6 CPE (2025)
-- ✅ The Complete Cyber Security Course Vols 1–4 — 54.5h (2024–2025)
-- ✅ SC-100 Security Architecture & Zero Trust (Microsoft Learn, 2024)
-- ✅ SC-300 Identity & Access Management (Microsoft Learn, 2024)
-- ✅ Nmap Ethical Hacking · Bug Bounty · CTF Exploitation · Mastering Nuclei
-
-</details>
-
-<details>
-<summary><b>Cloud & AI</b></summary>
-
-- ✅ AZ-104 Microsoft Azure Administrator
-- ✅ AWS Solutions Architect
-- ✅ Google Cloud Skills — Gold League (7,842 pts)
-- ✅ Microsoft Academy — 46 courses, Warsaw IT Days 2026
-- ✅ Anthropic AI Skills: Claude 101 · Agent Skills · Subagents
-- ✅ Google Ads Apps Certification (active until March 2027)
-
-</details>
-
-<details>
-<summary><b>Development</b></summary>
-
-- ✅ C# Intermediate — OOP, LINQ, delegates, generics (Codewithmosh, 2026)
-- ✅ Spring Boot for Beginners (Amigoscode, 2026)
-- ✅ Full Stack Java & Front End Dev (Simplilearn)
-- ✅ Linux RH104 (Red Hat / PJATK, 2024)
-- ✅ CompTIA Network+ & A+
-
-</details>
-
----
-
-## 🎓 Education
-
-**B.Sc. Computer Science** — Polish-Japanese Academy of Information Technology (PJATK), Warsaw
-📅 2024–2028 · Specialisation: **Cybersecurity & Systems Programming**
-
-| Semester | Courses |
-|----------|---------|
-| 1 | Java Programming · Calculus · Computer Architecture · Information Systems |
-| 2 | OOP/GUI · Discrete Math · Relational Databases · Operating Systems · Linear Algebra |
-| 3 | Algorithms & DS · Computer Networks · DB Systems · Statistical Analysis · UTP |
-| 4 | AI Tools · Database Applications · Python · Spring Boot (TPO) · UML Design · Simulations · Embedded Systems |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-D-Kravchenko&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=e6edf3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-D-Kravchenko&layout=compact&theme=github_dark&hide_border=true&title_color=00ff41&text_color=e6edf3)
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiia-kravchenko-1bb02b217)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anastasia-D-Kravchenko)
-
----
-
-```
-// Verification Protocol: ACTIVE | Registry: 100+ Validated Credentials | Last Rev: April 2026
-```
+* Reply Mirror AI Agent Challenge 2026: multi-agent fraud detection
+* IMC Prosperity 4 algorithmic trading challenge (2026)
+* Google ADK agent workshop, GDG Warsaw (2026)
+* Google Cybersecurity Professional Certificate; 99+ course completions on StationX
